@@ -2,10 +2,6 @@
 /*! tailwindcss v3.2.7 | MIT License | https://tailwindcss.com*/
 /*# sourceMappingURL=/_bridgetown/static/index.VF3ITDXF.css.map */
 
-* {
-    font-size: 110% !important;
-}
-
 @font-face {
     font-display: swap;
     font-family: "8bit";
@@ -24,6 +20,7 @@
 
 body {
     font-family: "8bit", monospace !important;
+    font-size: 17.6px;
 }
 
 .font-8bit-bold,
